@@ -1,0 +1,34 @@
+body{
+    /* text-align: center; */
+   background-image:url("download.jpg");
+    background-position: center;
+}	
+}
+
+#headerSection{
+    padding: 10px;
+    font-family: cursive;
+}
+
+input{
+    padding : 10px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+#dropbox{
+    padding : 10px;
+    border-radius: 10px;
+    width: 225px;
+
+}
+
+#loginButton{
+    padding: 10px;
+    border-radius: 10px;
+    width : 100px;
+    background-color: rgb(43, 121, 157);
+    color: white;
+    font-size: 15px;
+    
+}
